@@ -23,11 +23,11 @@ To get started with this repository, follow these steps:
     ```sh
     cd postgres
     ```
-3. Follow the setup instructions in the `SETUP.md` file.
+
 
 ## Contributing
 
-We welcome contributions! Please see the `CONTRIBUTING.md` file for guidelines on how to contribute to this project.
+We welcome contributions! 
 
 ## License
 
